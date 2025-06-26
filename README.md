@@ -1,2 +1,3 @@
 # Full Stack Web Development
-- index.html
+- basic-elements/index.html
+- lists-and-tables/index.html
