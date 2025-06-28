@@ -2,8 +2,43 @@
 <html>
     <head>
         <title>Basic Styling</title>
+        <style>
+            body {
+                background: #f4f4f4;
+                font-family: Arial, Helvetica, sans-serif;
+                line-height: 1.5em;
+            }
+
+            #container {
+                border: 1px #ccc solid;
+                padding: 0 10px;
+                width: 800px;
+                margin: 30px auto;
+                overflow: hidden;
+            }
+
+            .emp {
+                color: red;
+                font-weight: bold;
+            }
+
+            .side-a{
+                float: left;
+                width: 50%;
+            }
+        </style>
     </head>
     <body>
+        <div id="container">
+            <div class="side-a">
+                <h1>Welcome</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <span class="emp">Ratione</span>, voluptatem commodi maxime ad, voluptate blanditiis assumenda reprehenderit voluptatibus corrupti consectetur adipisci nihil, exercitationem vitae fugit placeat quas quam voluptatum impedit quidem, at delectus iusto? Quam ex maxime tenetur adipisci asperiores veniam cum suscipit fugit, <span class="emp">impedit rem</span>, aliquid perspiciatis, amet, odit quidem facere perferendis! Necessitatibus vero aperiam nulla doloremque repellendus eligendi fugiat dolorum ducimus totam corrupti laboriosam deserunt nihil ipsam molestiae est voluptate sapiente, dignissimos, culpa? Aliquid rerum suscipit vitae voluptates eaque dolor tenetur iure. Consequuntur, repellat fuga? Eum illum inventore facere! Aperiam quam debitis, porro nam similique aspernatur velit, dolorum.</p>
+            </div>
 
+            <div class="side-b">
+                <h1>Hello</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <span class="emp">Ratione</span>, voluptatem commodi maxime ad, voluptate blanditiis assumenda reprehenderit voluptatibus corrupti consectetur adipisci nihil, exercitationem vitae fugit placeat quas quam voluptatum impedit quidem, at delectus iusto? Quam ex maxime tenetur adipisci asperiores veniam cum suscipit fugit, <span class="emp">impedit rem</span>, aliquid perspiciatis, amet, odit quidem facere perferendis!</p>
+            </div>
+        </div>
     </body>
 </html>
