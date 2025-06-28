@@ -9,3 +9,4 @@
 - simple-html-template/services.html
 - simple-html-template/contact.html
 - simple-html-template/style.css
+- new-elements/index.html
