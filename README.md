@@ -5,3 +5,7 @@
 - forms-and-input/index.html
 - basic-styling/index.html
 - simple-html-template/index.html
+- simple-html-template/about.html
+- simple-html-template/services.html
+- simple-html-template/contact.html
+- simple-html-template/style.css
