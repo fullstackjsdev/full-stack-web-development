@@ -10,3 +10,4 @@
 - simple-html-template/contact.html
 - simple-html-template/style.css
 - new-elements/index.html
+- audio-and-video/index.html
