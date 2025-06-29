@@ -12,3 +12,5 @@
 - new-elements/index.html
 - audio-and-video/index.html
 - canvas/index.html
+- svg/index.html
+- web-storage/index.html
