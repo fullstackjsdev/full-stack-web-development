@@ -11,3 +11,4 @@
 - simple-html-template/style.css
 - new-elements/index.html
 - audio-and-video/index.html
+- canvas/index.html
