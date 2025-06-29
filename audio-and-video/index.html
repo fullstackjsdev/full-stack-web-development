@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Audio & Video</title>
+    </head>
+    <body>
+        <h1>Video</h1>
+        <video id="myvideo" src="https://d39l2hkdp2esp1.cloudfront.net/video/mp4/V1551.mp4" controls muted width="600">
+            Your browser does not support video
+        </video>
+
+        <h1>Audio</h1>
+        <audio id="myaudio" src="https://www.bensound.com/bensound-music/bensound-slowlife.mp3">
+            Your browser does not support audio
+        </audio>
+
+        <div>
+            <button onclick="document.getElementById('myaudio').play()">Play</button>
+            <button onclick="document.getElementById('myaudio').pause()">Pause</button>
+            <button onclick="document.getElementById('myaudio').volume+=0.1">+ Volume</button>
+            <button onclick="document.getElementById('myaudio').volume-=0.1">- Volume</button>
+        </div>
+
+        <script>
+            var v = document.getElementById('myvideo');
+            v.play();
+        </script>
+
+    </body>
+</html>
