@@ -16,3 +16,4 @@
 - web-storage/index.html
 - drag-and-drop/index.html
 - drag-and-drop/logo.png
+- geolocation/index.html
