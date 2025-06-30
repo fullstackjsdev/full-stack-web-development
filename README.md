@@ -14,3 +14,5 @@
 - canvas/index.html
 - svg/index.html
 - web-storage/index.html
+- drag-and-drop/index.html
+- drag-and-drop/logo.png
