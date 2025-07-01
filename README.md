@@ -19,3 +19,4 @@
 - drag-and-drop/logo.png
 - geolocation/index.html
 - mynote/index.html
+- basic-styling-II/index.html
