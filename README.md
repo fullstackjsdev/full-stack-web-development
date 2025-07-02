@@ -20,3 +20,5 @@
 - geolocation/index.html
 - mynote/index.html
 - basic-styling-II/index.html
+- positioning-and-background/index.html
+- positioning-and-background/bg.jpg
