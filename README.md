@@ -23,3 +23,4 @@
 - positioning-and-background/index.html
 - positioning-and-background/bg.jpg
 - pseudo-classes/index.html
+- colors-backgrounds-and-gradients/index.html
