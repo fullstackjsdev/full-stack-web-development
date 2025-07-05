@@ -24,3 +24,7 @@
 - positioning-and-background/bg.jpg
 - pseudo-classes/index.html
 - colors-backgrounds-and-gradients/index.html
+- colors-backgrounds-and-gradients/bird.jpg
+- colors-backgrounds-and-gradients/border.png
+- colors-backgrounds-and-gradients/img_flwr.gif
+- colors-backgrounds-and-gradients/paper.gif
