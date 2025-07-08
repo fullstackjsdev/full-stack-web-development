@@ -28,3 +28,4 @@
 - colors-backgrounds-and-gradients/border.png
 - colors-backgrounds-and-gradients/img_flwr.gif
 - colors-backgrounds-and-gradients/paper.gif
+- text-and-box-shadows/index.html
